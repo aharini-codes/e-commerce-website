@@ -43,7 +43,7 @@ The website demonstrates front-end development skills including responsive desig
 
 View the live project here:
 
-https://aharini-codes.github.io/E-commerce-website
+https://aharini-codes.github.io/E-commerce-website/
 
 ---
 
